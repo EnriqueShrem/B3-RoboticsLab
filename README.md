@@ -1,12 +1,12 @@
 # B3-RoboticsLab
-In this repository we cover the work done by the group B3 for the Final Tasks for the Introduction to Robotics Tutorial course
+In this repository we cover the work done by the group B3 for the Final Tasks in the Introduction to Robotics Tutorial course
 
 Members: Jose Flores, Danna Lopez, Facundo Rolon, Enrique Shrem
 
 ## Course Overview
 In the Introduction to Robotics Tutorial course, we work with industrial robots (EPSON and ABB) to make practices and achieve specific tasks, we cover topics such as:
 - Instalation of the I/O connections
-- Programing of the robot
+- Programing with respective robot software
 - Simulation of the tasks
 - Robot usage to perform the tasks
 
