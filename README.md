@@ -1,5 +1,5 @@
 # B3-RoboticsLab
-In this repository we cover the work done by the group B3 for the Final Tasks for the Introduction to Robotics Tutorial Course
+In this repository we cover the work done by the group B3 for the Final Tasks for the Introduction to Robotics Tutorial course
 
 Members: Jose Flores, Danna Lopez, Facundo Rolon, Enrique Shrem
 
