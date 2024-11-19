@@ -1,5 +1,5 @@
 # B3-RoboticsLab
-##Overview
+## Overview
 The Robotics Lab is a class in which we work with industrial robots (EPSON and ABB) to make practices and achieve specific tasks, we cover topics such as:
 - Instalation of electrical and pneumatic components
 - Programing of the robot
@@ -13,7 +13,7 @@ Tray: a platform used for the alignment of the tokens with the tool
 Fixture: a platform with multiple sockets for the tokens (3 for each kind)
 
 
-##Task 1: Pick and Place
+## Task 1: Pick and Place
 Move tokens from feeder (a platform with vertically aligned tokens), to the tray (a platform used for the alignment of the tokens with the tool), and then precisely insert them into the fixture(a platform with multiple sockets for the tokens)
 
 Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed the calibration)
@@ -23,7 +23,7 @@ Measure the tool dimension and the center offset between tool0(J6, robot) and to
 Decide the space between "objects"(tokens and blocks) at pick-up and approach gap when place
 Exercise: Transfer tokens from the feeder to the fixture first, then move them to the tray.
 
-##Task 2: Building the simulation environment:
+## Task 2: Building the simulation environment:
 There are two ways to build the simulation environment:
 
 Use the measured dimension of the robot envelope and the work cell in Basic: Task 1.
