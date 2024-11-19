@@ -11,10 +11,11 @@ In the Introduction to Robotics Tutorial course, we work with industrial robots 
 - Robot usage to perform the tasks
 
 Enviroment materials:
-Tokens: two types, coin and block
-Feeder: a platform with vertically aligned tokens (stacked by types)
-Tray: a platform with multiple sockets for the tokens (3 for each kind)
-Fixture: a platform used for the alignment of the tokens with the tool
+- Tokens: two types, coin and block
+- Feeder: a platform with vertically aligned tokens (stacked by types)
+- Tray: a platform with multiple sockets for the tokens (3 for each kind)
+- Fixture: a platform used for the alignment of the tokens with the tool
+
 Others materials can be missed, since they don't offer relevance during the tasks mentioned below.
 
 ## Task 1: Pick and Place
