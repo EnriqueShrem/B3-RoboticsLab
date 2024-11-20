@@ -22,6 +22,6 @@ Others materials can be missed, since they don't offer relevance during the task
 ### [Task 1: Pick and Place](Task%201%3A%20Pick%20and%20Place.md)
 Move tokens from feeder to the fixture, align them and then precisely insert them into the tray, repite the process reversely.
 
-### [Task 2: Stack-Up](Task%202%3AStack-Up.md)
+### [Task 2: Stack-Up](Task%202%3A%20Stack-Up.md)
 Stack up tokens and blocks alternatively. (5 token and 5 blocks)
 
