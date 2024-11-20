@@ -1,6 +1,6 @@
-#Task 2: Stack-Up
-##Simulation
+# Task 2: Stack-Up
+## Simulation
 
-##I/O Connections
+## I/O Connections
 
-##SPEL+ Code
+## SPEL+ Code
