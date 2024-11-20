@@ -1,4 +1,4 @@
-#Task 1: Pick and Place
+# Task 1: Pick and Place
 ## Simulation
 
 ## I/O Connections
