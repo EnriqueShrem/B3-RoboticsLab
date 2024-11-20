@@ -1,5 +1,6 @@
-# Simulation
+#Task 1: Pick and Place
+## Simulation
 
-# I/O Connections
+## I/O Connections
 
-# SPEL+ Code
+## SPEL+ Code
