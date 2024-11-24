@@ -58,6 +58,7 @@ Loop
 Halt Task1
 Fend 'Ends The Main Function
 
+
 Function Task1 'Executes the Pick and Place tasks
 Go SafetyPosition
 Call FOR3
@@ -69,7 +70,6 @@ Fend
 Function FORCOINS 'For Coin Tokens
 Integer i
 For i = 0 To 2
-
        Go P1 +Z(50) 'Goes to the Picking Positions
        Wait 0.5
        Go P1 +Z(-6 * i)
@@ -82,7 +82,6 @@ For i = 0 To 2
        Wait 0.5
        Go P3 +X(Mx) +Y(My)
        Wait 0.5
-       
        Off 8
        
        Go P3 +X(-Mx) +Y(-My) 'Aligns the Tokens
@@ -106,7 +105,6 @@ Fend
 Function FORBLOCKS 'For Block Tokens
 Integer i
 For i = 0 To 2
-
        Go P2 +Z(50) 'Goes to Picking Positions
        Wait 0.5
        Go P2 +Z(-6 * i)
@@ -125,8 +123,8 @@ For i = 0 To 2
        Go P4 +Z(10)
        Go P4
        Wait 0.5
-
        On 8
+
        Go P4 +Z(30) 'Goes to Tray Positions
        Go P6 +X(Dx * i) +Y(Dy * i) +Z(30)
        Go P6 +X(Dx * i) +Y(Dy * i)
