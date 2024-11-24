@@ -28,7 +28,5 @@ Stacks up tokens and blocks alternatively, collecting them from the feeder.
 ## Features
 ### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
 
-### [Simulations](Simulations.md)
-
 
 
