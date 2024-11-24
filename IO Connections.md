@@ -1,1 +1,4 @@
 ![IO Diagram](Assets/IO%20Diagram.jpg)
+<p align="center">
+  <img src="Assets/IO%20Diagram.jpg" alt="IO Diagram" height = "800" width="300">
+</p>
