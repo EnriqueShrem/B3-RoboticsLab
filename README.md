@@ -26,17 +26,6 @@ Move tokens from feeder to the fixture, align them and then precisely insert the
 Stack up tokens and blocks alternatively (5 token and 5 blocks).
 
 ### I/O Connections |🔴🟠🟢🔵⚪🚨|
-🔴 = Stop
-
-🟠 = Reset
-
-🟢 = Start
-
-🔵 = Pause
-
-⚪ = Continue
-
-🚨 Buzzer
 
 
 
