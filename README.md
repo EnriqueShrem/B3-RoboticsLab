@@ -23,5 +23,8 @@ Other materials can be missed, since they don't offer relevance during the tasks
 Move tokens from feeder to the fixture, align them and then precisely insert them into the tray, repite the process reversely.
 
 ### [Task 2: Stack-Up](Task%202%3A%20Stack-Up.md)
-Stack up tokens and blocks alternatively. (5 token and 5 blocks)
+Stack up tokens and blocks alternatively (5 token and 5 blocks).
+
+###I/O Connections
+:red:
 
