@@ -26,7 +26,6 @@ Move tokens from feeder to the fixture, align them and then precisely insert the
 Stack up tokens and blocks alternatively (5 token and 5 blocks).
 
 ### I/O Connections
--
-<mark style="background-color: lightblue; color: black;">[🔴🟠🟢🔵⚪🚨]</mark>
+<mark style="background-color: grey; color: black;">🔴🟠🟢🔵⚪🚨</mark>
 
 
