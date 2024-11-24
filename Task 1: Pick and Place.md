@@ -58,7 +58,7 @@ Loop
 Halt Task1
 Fend 'Ends The Main Function
 
-Function Task1 ;Executes the Pick and Place tasks
+Function Task1 'Executes the Pick and Place tasks
 Go SafetyPosition
 Call FOR3
 Call FOR4
