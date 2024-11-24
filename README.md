@@ -25,7 +25,7 @@ Move tokens from feeder to the fixture, align them and then precisely insert the
 ### [Task 2: Stack-Up](Task%202%3A%20Stack-Up.md)
 Stack up tokens and blocks alternatively (5 token and 5 blocks).
 
-###I/O Connections
+### I/O Connections
 -[🔴🟠🟢🔵⚪🚨]
-<span style="background-color:yellow;">[🔴🟠🟢🔵⚪🚨]</span>
+<span style=background-color:yellow;>[🔴🟠🟢🔵⚪🚨]</span>
 
