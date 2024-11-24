@@ -1,2 +1,1 @@
-
-![IO Diagram](Assets/IO%20Diagram)
+![IO Diagram](Assets/IO%20Diagram.jpg)
