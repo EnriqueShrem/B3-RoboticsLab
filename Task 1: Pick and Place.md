@@ -2,7 +2,7 @@
 ## Simulation
 
 ## SPEL+ Code
-
+```
 Function PickPlace
 Motor On
 Power High
@@ -158,3 +158,4 @@ For i = 0 To 2
 Next i
 
 Fend
+```
