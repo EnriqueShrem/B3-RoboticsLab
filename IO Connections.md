@@ -1,4 +1,4 @@
-# I/O Connections |🔴🟠🟢🔵⚪🚨|
+# Control Box |🔴🟠🟢🔵⚪🚨|
 🔴 = Stop
 
 🟠 = Reset
@@ -11,7 +11,7 @@
 
 🚨 Buzzer
 
-## I/O Connections Diagram
+# I/O Connections
 
 <p align="center">
   <img src="Assets/IO%20Diagram.jpg" alt="IO Diagram" height = "1000" width="600">
