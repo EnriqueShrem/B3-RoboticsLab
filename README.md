@@ -26,7 +26,7 @@ Moves tokens from feeder to the fixture, aligns them and then precisely inserts 
 Stacks up tokens and blocks alternatively, collecting them from the feeder.
 
 ## Features
-### [I/O Connections & Control Box |🔴🟠🟢🔵⚪🚨|](IO%20Connections.md)
+### [Control Box & I/O Connections|🔴🟠🟢🔵⚪🚨|](IO%20Connections.md)
 
 ### [Simulations](Simulations.md)
 
