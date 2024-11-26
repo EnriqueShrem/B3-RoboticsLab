@@ -2,9 +2,9 @@
 ## Simulation
 
 <a  centerhref="https://youtu.be/znjjijPPfI8" target="_blank">
-    align="center">
+    <p align="center">
     <img src="Assets/EPSONSIM.png" style="width:50%; max-width:600px, height:50%;">
-</a>
+</a> </p>
 
 ## SPEL+ Code
 ```
