@@ -1,5 +1,5 @@
 # Robotics Lab Final Tasks - Group B3
-In this repository we cover the work done for the Final Tasks in the Introduction to Robotics Tutorial course as the group B3.
+In this repository we cover the work done for the Final Tasks in the Introduction to Robotics Tutorial course as the group B3. See also https://github.com/EnriqueShrem/B3-Robotics
 
 Members: Jose Flores, Danna Lopez, Facundo Rolon, Enrique Shrem
 
