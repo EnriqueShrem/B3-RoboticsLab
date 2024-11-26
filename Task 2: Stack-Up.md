@@ -1,6 +1,11 @@
 # Task 2: Stack-Up
 ## Simulation
-
+Simulation video link:
+<p align="center">
+<a  href="" target="_blank">
+    <img src="" alt="Simulation Video" style="width:50%; max-width:600px, height:50%;">
+</a>
+</p>
 ## SPEL+ Code
 ```
 Function Stacking 'Main Function, call all the other functions
