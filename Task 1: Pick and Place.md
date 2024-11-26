@@ -2,7 +2,7 @@
 ## Simulation
 
 <a href="https://youtu.be/znjjijPPfI8" target="_blank">
-    <img src="Assets/EPSON%20Robot" style="width:100%; max-width:600px;">
+    <img src="Assets/EPSON%20Robot.jpg" style="width:100%; max-width:600px;">
 </a>
 
 ## SPEL+ Code
