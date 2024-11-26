@@ -1,7 +1,8 @@
 # Task 1: Pick and Place
 ## Simulation
 
-<a align="center" centerhref="https://youtu.be/znjjijPPfI8" target="_blank">
+<a  centerhref="https://youtu.be/znjjijPPfI8" target="_blank">
+    align="center">
     <img src="Assets/EPSONSIM.png" style="width:50%; max-width:600px, height:50%;">
 </a>
 
