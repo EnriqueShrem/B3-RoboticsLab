@@ -1,10 +1,10 @@
 # Task 1: Pick and Place
 ## Simulation
-
+<p align="center">
 <a  centerhref="https://youtu.be/znjjijPPfI8" target="_blank">
-    <p align="center">
     <img src="Assets/EPSONSIM.png" style="width:50%; max-width:600px, height:50%;">
-</a> </p>
+</a>
+</p>
 
 ## SPEL+ Code
 ```
