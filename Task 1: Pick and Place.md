@@ -3,7 +3,7 @@
 Simulation video link:
 <p align="center">
 <a  href="https://youtu.be/znjjijPPfI8" target="_blank">
-    <img src="Assets/EPSONSIM.png" alt="Simulation Video" style="width:50%; max-width:600px, height:50%;">
+    <img src=https://youtu.be/znjjijPPfI8/0.jpg alt="Simulation Video" style="width:50%; max-width:600px, height:50%;">
 </a>
 </p>
 
