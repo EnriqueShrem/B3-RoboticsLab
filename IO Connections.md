@@ -1,13 +1,13 @@
 # Control Box |🔴🟠🟢🔵⚪🚨|
-🔴 = Stop
+🔴 = Stop: Stop the task operation of the robot, activates the buzzer
 
-🟠 = Reset
+🟠 = Reset: Returns to initial position
 
-🟢 = Start
+🟢 = Start: Starts the task operation
 
-🔵 = Pause
+🔵 = Pause: Holds the action from performing the next one
 
-⚪ = Continue
+⚪ = Continue: Resume the task from its paused stage
 
 🚨 Buzzer
 
