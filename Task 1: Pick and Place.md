@@ -1,6 +1,10 @@
 # Task 1: Pick and Place
 ## Simulation
-[<p align="center"><img src="Assets/EPSON%20Robot.jpg"</p>](https://youtu.be/znjjijPPfI8)
+
+<a href="https://youtu.be/znjjijPPfI8" target="_blank">
+    <img src="Assets/EPSON%20Robot" alt="Alt Text" style="width:100%; max-width:600px;">
+</a>
+
 ## SPEL+ Code
 ```
 Function PickPlace
