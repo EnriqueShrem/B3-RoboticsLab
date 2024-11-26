@@ -3,7 +3,7 @@
 
 ## SPEL+ Code
 ```
-Function Stacking 'Main program, call all the other functions
+Function Stacking 'Main Function, call all the other functions
 Motor On
 Power High
 Tool 1
