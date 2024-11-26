@@ -1,6 +1,6 @@
 # Task 1: Pick and Place
 ## Simulation
-[![Video Title](https://youtu.be/znjjijPPfI8/0.jpg)](https://youtu.be/znjjijPPfI8)
+[![Video Title](https://youtu.be/znjjijPPfI8/1.jpg)](https://youtu.be/znjjijPPfI8)
 ## SPEL+ Code
 ```
 Function PickPlace
