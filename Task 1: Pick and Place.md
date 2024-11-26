@@ -1,6 +1,6 @@
 # Task 1: Pick and Place
 ## Simulation
-[![Simulatio Video]("Assets/EPSON%20Robot.jpg")](https://youtu.be/znjjijPPfI8)
+[<img src="Assets/EPSON%20Robot.jpg"</p>](https://youtu.be/znjjijPPfI8)
 ## SPEL+ Code
 ```
 Function PickPlace
