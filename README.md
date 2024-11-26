@@ -16,7 +16,7 @@ Enviroment materials:
 - Tray: a platform with multiple sockets for the tokens (3 for each type)
 - Fixture: a platform used for the alignment of the tokens with the tool
 
-This and other materials have been used for the performance of tasks.
+This and other materials have been used for the performing the tasks.
 
 ## Final Tasks
 ### [Task 1: Pick and Place](Task%201%3A%20Pick%20and%20Place.md)
