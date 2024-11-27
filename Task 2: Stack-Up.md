@@ -3,7 +3,7 @@
 Simulation video link:
 <p align="center">
 <a  href="https://youtu.be/qhKUARaJpzY" target="_blank">
-    <img src="https://img.youtube/qhKUARaJpzY/0.jpg" alt="Simulation Video" style="width:50%; max-width:600px, height:50%;">
+    <img src="https://img.youtube/vi/qhKUARaJpzY/0.jpg" alt="Simulation Video" style="width:50%; max-width:600px, height:50%;">
 </a>
 </p>
 
