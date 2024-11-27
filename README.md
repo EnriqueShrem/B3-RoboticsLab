@@ -25,8 +25,8 @@ Moves tokens from feeder to the fixture, aligns them and then precisely inserts 
 ### [Task 2: Stack-Up](Task%202%3A%20Stack-Up.md)
 Stacks up tokens and blocks alternatively, collecting them from the feeder.
 
-### [Task 3: Robot Drawing & Puzzle](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md)
-
+### [Task 3: Robot Drawing & Puzzle](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md) Free
+, The
 ## Features
 ### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
 
