@@ -54,9 +54,9 @@ Fend
 Function Stack 'Starts the Stacking Function
 Integer i
 For i = 0 To 9
-       Go P2 +Z(6 * i) 'Goes to the Block Picking Positions
+       Go P2 +Z((6*n)+(6 * i)) 'Goes to the Block Picking Positions
        Wait 0.5
-       Go P2 +Z(-6 * i)
+       Go P2 +Z((6*n)-(6 * i))
        On 8
        Wait 0.5
            
