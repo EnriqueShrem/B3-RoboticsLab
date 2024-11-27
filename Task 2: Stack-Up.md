@@ -60,7 +60,7 @@ For i = 0 To 9
        On 8
        Wait 0.5
            
-       Go P2 +Z(6 * i) 'Goes to the Placing Position to Leave the Block
+       Go P2 +Z((6*n)+(6 * i)) 'Goes to the Placing Position to Leave the Block
        Go P5 +Z(24 + (12 * i))
        Go P5 +Z(6 + (12 * i))
        Wait 0.5
