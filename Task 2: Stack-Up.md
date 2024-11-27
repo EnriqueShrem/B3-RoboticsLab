@@ -53,34 +53,34 @@ Fend
 Function Stack 'Starts the Stacking Function
 Integer i
 For i = 0 To 9
-       Go P2 +Z(6 * i) 'Goes to the Block Picking Positions
-       Wait 0.5
-       Go P2 +Z(-6 * i)
-       On 8
-       Wait 0.5
+   Go P2 +Z(6 * i) 'Goes to the Block Picking Positions
+   Wait 0.5
+   Go P2 +Z(-6 * i)
+   On 8
+   Wait 0.5
        
-       Go P2 +Z(6 * i) 'Goes to the Placing Position to Leave the Block
-       Go P5 +Z(24 + (12 * i))
-       Go P5 +Z(6 + (12 * i))
-       Wait 0.5
-       Off 8
-       Wait 0.5
-       
-       Go P5 +Z(24 + (12 * i)) 'Goes to the Coin Picking Position
-       Go P1 +Z(6 * i)
-       Wait 0.5
-       Go P1 +Z(-6 * i)
-       On 8
-       Wait 0.5
-       
-       Go P1 +Z(6 * i) 'Goes to the Placing Position to leave the Coin
-       Go P5 +Z(30 + (12 * i))
-       Go P5 +Z(12 + (12 * i))
-       Wait 0.5
-       Off 8
-       Wait 0.5
-       
-       Go P5 +Z(30 + (12 * i)) 'Ends Action
-       Next i
+   Go P2 +Z(6 * i) 'Goes to the Placing Position to Leave the Block
+   Go P5 +Z(24 + (12 * i))
+   Go P5 +Z(6 + (12 * i))
+   Wait 0.5
+   Off 8
+   Wait 0.5
+   
+   Go P5 +Z(24 + (12 * i)) 'Goes to the Coin Picking Position
+   Go P1 +Z(6 * i)
+   Wait 0.5
+   Go P1 +Z(-6 * i)
+   On 8
+   Wait 0.5
+   
+   Go P1 +Z(6 * i) 'Goes to the Placing Position to leave the Coin
+   Go P5 +Z(30 + (12 * i))
+   Go P5 +Z(12 + (12 * i))
+   Wait 0.5
+   Off 8
+   Wait 0.5
+   
+   Go P5 +Z(30 + (12 * i)) 'Ends Action
+   Next i
 Fend
 ```
