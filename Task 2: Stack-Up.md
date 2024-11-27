@@ -26,10 +26,10 @@ Wait Sw(0) = On
 Xqt Task1
 Do While Sw(0) = On
        If Sw(5) = On Then
-              Halt Task1
+              Halt Task2
        EndIf
        If Sw(7) = On Then
-              Quit Task1
+              Quit Task2
               Reset
               Go P0
               Off 8
@@ -37,14 +37,14 @@ Do While Sw(0) = On
               GoTo Start_Loop
        EndIf
        If Sw(6) = On Then
-              Resume Task1
+              Resume Task2
        EndIf
        If Sw(4) = On Then
-              Quit Task1
+              Quit Task2
               On 12
        EndIf
 Loop
-Halt Task1
+Halt Task2
 Fend 'Ends The Main Function
 
 Function Task2 'Call Initial Position and Stack Function
