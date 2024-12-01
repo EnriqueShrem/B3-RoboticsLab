@@ -29,6 +29,11 @@ Moves tokens from feeder to the fixture, aligns them and then precisely inserts 
 
 ### [Task 2: Stack-Up](Task%202%3A%20Stack-Up.md)
 Stacks up tokens and blocks alternatively, collecting them from the feeder.
+<p align="center">
+<a  href="https://youtu.be/7zq75P6Hq2w" target="_blank">
+    <img src="https://img.youtube.com/vi/7zq75P6Hq2w/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:40%;">
+</a>
+</p>
 
 ### [Task 3: Robot Drawing & Puzzle](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md) (Open-ended)
 Stacks three jigsaw like puzzle items, then makes an easy-to-recognize drawing, and signs the group number.
