@@ -23,7 +23,7 @@ This and other materials have been used for the performing the tasks.
 Moves tokens from feeder to the fixture, aligns them and then precisely inserts them into the tray, repites the process reversely.
 <p align="center">
 <a  href="https://youtu.be/L9NZz7nbw-M" target="_blank">
-    <img src="https://img.youtube.com/vi/L9NZz7nbw-M/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:35%;">
+    <img src="https://img.youtube.com/vi/L9NZz7nbw-M/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:30%;">
 </a>
 </p>
 
@@ -31,7 +31,7 @@ Moves tokens from feeder to the fixture, aligns them and then precisely inserts 
 Stacks up tokens and blocks alternatively, collecting them from the feeder.
 <p align="center">
 <a  href="https://youtu.be/7zq75P6Hq2w" target="_blank">
-    <img src="https://img.youtube.com/vi/7zq75P6Hq2w/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:40%;">
+    <img src="https://img.youtube.com/vi/7zq75P6Hq2w/0.jpg" alt="Simulation Video" style="width:40%; max-width:600px, height:30%;">
 </a>
 </p>
 
