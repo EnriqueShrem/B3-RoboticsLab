@@ -9,7 +9,7 @@ Simulation video link:
 
 ## SPEL+ Code
 ```
-Global Real n
+Global Real n 
 Function Main 'Main Function, call all the other functions
 Motor On
 Power High
