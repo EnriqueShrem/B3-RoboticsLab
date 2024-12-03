@@ -77,32 +77,32 @@ Fend
 Function FORCOINS 'For Coin Tokens
 Integer i
 For i = 0 To 2
-       Go P1 +Z(50) 'Goes to the Picking Positions
-       Go P1 +Z(-6 * i)
+       Go P1 +Z(50) /0'Goes to the Picking Positions
+       Move P1 +Z(-6 * i) /0
        Wait 0.5
        On 8
        Wait 0.5
-  Go P1 +Z(2 + (-6 * i))
+       Move P1 +Z(2 + (-6 * i)) /0
 
-       Go P1 +X(-15) +Y(15) +Z(50) 'Goes to the Fixture Positions
-       Go P3 +X(Mx) +Y(My) +Z(30)
-       Go P3 +X(Mx) +Y(My)
+       Go P1 +X(-15) +Y(15) +Z(50) /0 'Goes to the Fixture Positions
+       Go P3 +X(Mx) +Y(My) +Z(30) /1
+       Move P3 +X(Mx) +Y(My) /1
        Off 8
        
-       Go P3 +X(-Mx) +Y(-My) 'Aligns the Tokens
-       Go P3 +X(-Mx) +Y(-My) +Z(10)
-       Go P3 +Z(10)
-       Go P3
+       Move P3 +X(-Mx) +Y(-My) /1 'Aligns the Tokens
+       Move P3 +X(-Mx) +Y(-My) +Z(10) /1
+       Move P3 +Z(10) /1
+       Move P3 /1
        Wait 0.5
        On 8
 
-       Go P3 +Z(30) 'Goes to Tray Positions
-       Go P5 +X(Dx * i) +Y(Dy * i) +Z(30)
-       Go P5 +X(Dx * i) +Y(Dy * i)
+       Move P3 +Z(30) /1 'Goes to Tray Positions
+       Go P5 +X(Dx * i) +Y(Dy * i) +Z(30) /2
+       Move P5 +X(Dx * i) +Y(Dy * i) /2
        Wait 0.5
        Off 8
 
-       Go P5 +X(Dx * i) +Y(Dy * i) +Z(30) 'Ends Action      
+       Move P5 +X(Dx * i) +Y(Dy * i) +Z(30) /2 'Ends Action      
        Next i
 Fend
 
@@ -110,32 +110,32 @@ Fend
 Function FORBLOCKS 'For Block Tokens
 Integer i
 For i = 0 To 2
-       Go P2 +Z(50) 'Goes to Picking Positions
-       Go P2 +Z(-6 * i)
-       Wait 0.5
+       Go P2 +Z(50) /0 'Goes to Picking Positions
+       Move P2 +Z(-6 * i) /0
+       Wait 0.5 
        On 8
-       Go P2 +Z(2 + (-6 * i))
+       Move P2 +Z(2 + (-6 * i)) /0
 
-       Go P2 +X(-15) +Y(15) +Z(50) 'Goes to Fixture Positions
-       Go P4 +X(Bx) +Y(By) +Z(30)
-       Go P4 +X(Bx) +Y(By)
+       Go P2 +X(-15) +Y(15) +Z(50) /0 'Goes to Fixture Positions
+       Go P4 +X(Bx) +Y(By) +Z(30) /1
+       Move P4 +X(Bx) +Y(By) /1
        Wait 0.5
        Off 8
        
-       Go P4 +X(-Bx) +Y(-By) 'Aligns Tokens
-       Go P4 +X(-Bx) +Y(-By) +Z(10)
-       Go P4 +Z(10)
-       Go P4
+       Move P4 +X(-Bx) +Y(-By) /1 'Aligns Tokens
+       Move P4 +X(-Bx) +Y(-By) +Z(10) /1
+       Move P4 +Z(10) /1
+       Move P4 /1
        Wait 0.5
        On 8
 
-       Go P4 +Z(30) 'Goes to Tray Positions
-       Go P6 +X(Dx * i) +Y(Dy * i) +Z(30)
-       Go P6 +X(Dx * i) +Y(Dy * i)
+       Move P4 +Z(30) /1 'Goes to Tray Positions
+       Go P6 +X(Dx * i) +Y(Dy * i) +Z(30) /2
+       Move P6 +X(Dx * i) +Y(Dy * i) /2
        Wait 0.5
        Off 8
        
-       Go P6 +X(Dx * i) +Y(Dy * i) +Z(30) 'Ends Action
+       Move P6 +X(Dx * i) +Y(Dy * i) +Z(30) /2 'Ends Action
        Next i
 Fend
 ```
