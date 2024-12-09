@@ -15,7 +15,7 @@
 ## I/O Connections 🔌📍
 
 <p align="center">
-  <img src="Assets/IO%20Diagram.jpg" alt="IO Diagram" height = "1000" width="600">
+  <img src="Assets/IO%20Diagram12.jpg" alt="IO Diagram" height = "1000" width="600">
 </p>
 
 # Task 3
@@ -33,3 +33,7 @@
 ⚪ = Play: Starts a stacking task relative to counter
 
 🚨 Buzzer
+
+<p align="center">
+  <img src="Assets/IO%20Diagram3.jpg" alt="IO Diagram" height = "1000" width="600">
+</p>
