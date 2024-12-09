@@ -58,6 +58,6 @@ Moves tokens feom fwaters to a determined position and then aligns then by pushi
 ## Features
 ### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
 ### [HMI Design](HMI%20Design.md)
-### [CAD Designs](Assets/CAD Files)
+### [CAD Designs](Assets/CAD%20Files)
 
 
