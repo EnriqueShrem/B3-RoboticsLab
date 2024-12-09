@@ -18,12 +18,13 @@ and others.
 
 
 Enviroment materials:
-### Task 1 & 2
+Task 1 & 2:
 - Tokens: two types, coin and block
 - Feeder: a platform with vertically aligned tokens (stacked by types)
 - Tray: a platform with multiple sockets for the tokens (3 for each type)
 - Fixture: a platform used for the alignment of the tokens with the tool
-### Task 3
+  
+Task 3:
 - Tokens: 3D printed human figures
 - Feeders: custom platforms for holding the human figures tokens
 
@@ -56,9 +57,9 @@ Moves tokens feom fwaters to a determined position and then aligns then by pushi
 
 
 ## Features
-### Task 1 & 2
+Task 1 & 2
 #### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%201%202.md)
-### Task 3
+Task 3
 #### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%203.md)
 #### [HMI Design](HMI%20Design%20Task%203.md)
 #### [CAD Designs](CAD%20Designs.md)
