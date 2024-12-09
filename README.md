@@ -6,9 +6,16 @@ Members: Jose Flores, Danna Lopez, Facundo Rolon, Enrique Shrem
 ## Course Overview
 In the Introduction to Robotics Tutorial course, we work with industrial robots (EPSON and ABB) to make practices and achieve specific tasks, we cover topics such as:
 - Instalation of the I/O connections
-- Programing with respectives robot software
+- Integration of control box
+- Programing with respective robot softwares
 - Simulation of the tasks
-- Robot usage to perform the tasks
+- Robot manipulation and usage to perform the tasks
+- Time optimization
+- Integration of 3D printed features
+
+
+and others.
+
 
 Enviroment materials:
 - Tokens: two types, coin and block
@@ -36,7 +43,9 @@ Stacks up tokens and blocks alternatively, collecting them from the feeder.
 </p>
 
 ### [Task 3: Pushing Alignment and Button-Based Stacking](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md) (Open-ended)
-Stacks three jigsaw like puzzle items, then makes an easy-to-recognize drawing, and signs the group number.
+Integration Task.
+
+
 
 ## Features
 ### Task 1 & 2
