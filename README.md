@@ -56,7 +56,7 @@ Moves tokens from feeders to a determined position and aligns them by pushing ag
 
 ## Features
 ### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
-### [HMI Design](HMI%20Design.md)
+### [HMI Design](HMI%20Design.md) (Task 3)
 ### [CAD Designs](Assets/CAD%20Files)
 
 
