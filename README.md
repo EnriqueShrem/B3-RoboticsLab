@@ -52,7 +52,7 @@ Integration Task.
 
 End effector: Pneumatic Gripper (Custom Gripper Fixtures)
 
-Moves tokens feom fwaters to a determined position and then aligns then by pushing with the next 
+Moves tokens from feeders to a determined position and aligns them by pushing against the next, then enables a counter button to define the number of tokens to be stacked and a play button to start the stacking, once tokens stacked returns to alignment position and renables the counter button. 
 
 
 ## Features
