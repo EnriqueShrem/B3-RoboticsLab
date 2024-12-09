@@ -29,6 +29,7 @@ This and other materials have been used for the performing the tasks.
 ## Final Tasks
 ### [Task 1: Pick and Place](Task%201%3A%20Pick%20and%20Place.md)
 End effector: Vacuum Nozzle
+
 Moves tokens from feeder to the fixture, aligns them and then precisely inserts them into the tray, repites the process reversely.
 <p align="center">
 <a  href="https://youtu.be/L9NZz7nbw-M" target="_blank">
@@ -38,6 +39,7 @@ Moves tokens from feeder to the fixture, aligns them and then precisely inserts 
 
 ### [Task 2: Stack-Up](Task%202%3A%20Stack-Up.md)
 End effector: Vacuum Nozzle
+
 Stacks up tokens and blocks alternatively, collecting them from the feeder.
 <p align="center">
 <a  href="https://youtu.be/7zq75P6Hq2w" target="_blank">
@@ -47,17 +49,15 @@ Stacks up tokens and blocks alternatively, collecting them from the feeder.
 
 ### [Task 3: Pushing Alignment and Button-Based Stacking](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md) (Open-ended)
 Integration Task.
+
 End effector: Pneumatic Gripper (Custom Gripper Fixtures)
+
 Moves tokens feom fwaters to a determined position and then aligns then by pushing with the next 
 
 
 ## Features
-Task 1 & 2
-- [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%201%202.md)
-
-Task 3
-- [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%203.md)
-- [HMI Design](HMI%20Design%20Task%203.md)
-- [CAD Designs](CAD%20Designs.md)
+### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
+### [HMI Design](HMI%20Design%20Task%203.md)
+### [CAD Designs](CAD%20Designs.md)
 
 
