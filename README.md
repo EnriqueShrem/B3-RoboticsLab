@@ -39,7 +39,11 @@ Stacks up tokens and blocks alternatively, collecting them from the feeder.
 Stacks three jigsaw like puzzle items, then makes an easy-to-recognize drawing, and signs the group number.
 
 ## Features
-### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
-
+### Task 1 & 2
+#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
+### Task 3
+#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections]
+#### [HMI]
+#### [CAD Features]
 
 
