@@ -7,26 +7,31 @@ Members: Jose Flores, Danna Lopez, Facundo Rolon, Enrique Shrem
 In the Introduction to Robotics Tutorial course, we work with industrial robots (EPSON and ABB) to make practices and achieve specific tasks, we cover topics such as:
 - Instalation of the I/O connections
 - Integration of control box
-- Programing with respective robot softwares
+- Programming with the respective robot software
 - Simulation of the tasks
 - Robot manipulation and usage to perform the tasks
 - Time optimization
-- Integration of 3D printed features
+- Integration of custom 3D printed features
 
 
 and others.
 
 
 Enviroment materials:
+### Task 1 & 2
 - Tokens: two types, coin and block
 - Feeder: a platform with vertically aligned tokens (stacked by types)
 - Tray: a platform with multiple sockets for the tokens (3 for each type)
 - Fixture: a platform used for the alignment of the tokens with the tool
+### Task 3
+- Tokens: 3D printed human figures
+- Feeders: custom platforms for holding the human figures tokens
 
 This and other materials have been used for the performing the tasks.
 
 ## Final Tasks
 ### [Task 1: Pick and Place](Task%201%3A%20Pick%20and%20Place.md)
+End effector: Vacuum Nozzle
 Moves tokens from feeder to the fixture, aligns them and then precisely inserts them into the tray, repites the process reversely.
 <p align="center">
 <a  href="https://youtu.be/L9NZz7nbw-M" target="_blank">
@@ -35,6 +40,7 @@ Moves tokens from feeder to the fixture, aligns them and then precisely inserts 
 </p>
 
 ### [Task 2: Stack-Up](Task%202%3A%20Stack-Up.md)
+End effector: Vacuum Nozzle
 Stacks up tokens and blocks alternatively, collecting them from the feeder.
 <p align="center">
 <a  href="https://youtu.be/7zq75P6Hq2w" target="_blank">
@@ -44,15 +50,17 @@ Stacks up tokens and blocks alternatively, collecting them from the feeder.
 
 ### [Task 3: Pushing Alignment and Button-Based Stacking](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md) (Open-ended)
 Integration Task.
+End effector: Pneumatic Gripper (Custom Gripper Fixtures)
+Moves tokens feom fwaters to a determined position and then aligns then by pushing with the next 
 
 
 
 ## Features
 ### Task 1 & 2
-#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
+#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%201%202.md)
 ### Task 3
-#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍]
-#### [HMI Design]
-#### [CAD Features]
+#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%203.md)
+#### [HMI Design](HMI%20Design%20Task%203.md)
+#### [CAD Designs](CAD%20Designs.md)
 
 
