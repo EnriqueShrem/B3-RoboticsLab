@@ -43,7 +43,7 @@ Stacks three jigsaw like puzzle items, then makes an easy-to-recognize drawing, 
 #### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections.md)
 ### Task 3
 #### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍]
-#### [HMI]
+#### [HMI Design]
 #### [CAD Features]
 
 
