@@ -47,7 +47,7 @@ Stacks up tokens and blocks alternatively, collecting them from the feeder.
 </a>
 </p>
 
-### [Task 3: Push Alignment and Button-Based Stacking](Task%203%3A%20Push%20Alignment%20and%20Button-Based%20Stacking.md)(Open-Ended Integration task)
+### [Task 3: Push Alignment and Button-Based Stacking](Task%203%3A%20Push%20Alignment%20and%20Button-Based%20Stacking.md) (Open-Ended Integration Task)
 
 End effector: Pneumatic Gripper (Custom Gripper Fixtures)
 
