@@ -13,10 +13,6 @@ In the Introduction to Robotics Tutorial course, we work with industrial robots 
 - Time optimization
 - Integration of custom 3D printed features
 
-
-and others.
-
-
 Enviroment materials:
 Task 1 & 2:
 - Tokens: two types, coin and block
@@ -55,13 +51,12 @@ End effector: Pneumatic Gripper (Custom Gripper Fixtures)
 Moves tokens feom fwaters to a determined position and then aligns then by pushing with the next 
 
 
-
 ## Features
 Task 1 & 2
-#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%201%202.md)
+  - [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%201%202.md)
 Task 3
-#### [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%203.md)
-#### [HMI Design](HMI%20Design%20Task%203.md)
-#### [CAD Designs](CAD%20Designs.md)
+  - [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%203.md)
+  - [HMI Design](HMI%20Design%20Task%203.md)
+  - [CAD Designs](CAD%20Designs.md)
 
 
