@@ -53,10 +53,11 @@ Moves tokens feom fwaters to a determined position and then aligns then by pushi
 
 ## Features
 Task 1 & 2
-  - [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%201%202.md)
+- [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%201%202.md)
+
 Task 3
-  - [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%203.md)
-  - [HMI Design](HMI%20Design%20Task%203.md)
-  - [CAD Designs](CAD%20Designs.md)
+- [Control Box |🔴🟠🟢🔵⚪🚨| & I/O Connections 🔌📍](IO%20Connections%20Task%203.md)
+- [HMI Design](HMI%20Design%20Task%203.md)
+- [CAD Designs](CAD%20Designs.md)
 
 
