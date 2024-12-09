@@ -35,7 +35,7 @@ Stacks up tokens and blocks alternatively, collecting them from the feeder.
 </a>
 </p>
 
-### [Task 3: Robot Drawing & Puzzle](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md) (Open-ended)
+### [Task 3: Pushing Alignment and Button-Based Stacking](Task%203%3A%20Robot%20Drawing%20%26%20Puzzle.md) (Open-ended)
 Stacks three jigsaw like puzzle items, then makes an easy-to-recognize drawing, and signs the group number.
 
 ## Features
