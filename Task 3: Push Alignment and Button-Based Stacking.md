@@ -1,5 +1,12 @@
 # Simulation
-
+# Task 2: Stack-Up
+## Simulation
+Simulation video link:
+<p align="center">
+<a  href="https://youtu.be/RIZ-m-4waJw" target="_blank">
+    <img src="https://img.youtube.com/vi/RIZ-m-4waJw/0.jpg" alt="Simulation Video" style="width:50%; max-width:600px, height:30%;">
+</a>
+</p>
 
 # SPEL+ Code
 ```
