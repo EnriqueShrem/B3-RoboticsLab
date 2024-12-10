@@ -22,7 +22,7 @@ Task 1 & 2:
   
 Task 3:
 - Tokens: 3D printed human figures
-- Feeders: custom platforms for holding the human figures tokens
+- Feeders: custom platforms for holding the human like tokens
 
 This and other materials have been used for the performing the tasks.
 
